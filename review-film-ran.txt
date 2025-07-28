@@ -1,3 +1,5 @@
 review:
 sinematografi = bagus
-akting = jelek
+akting = biasa
+score = bagus
+
