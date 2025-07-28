@@ -1,2 +1,4 @@
 review:
-oke gas oke gas
+sinematografi = bagus
+akting = biasa
+score = bagus
