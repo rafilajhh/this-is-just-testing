@@ -1,2 +1,3 @@
 review:
-oke gas oke gas
+sinematografi = bagus
+akting = jelek
